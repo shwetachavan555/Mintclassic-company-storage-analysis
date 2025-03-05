@@ -1,39 +1,34 @@
-# Mintclassic-company-storage-analysis
-![image](https://github.com/user-attachments/assets/30567b4d-3aa7-45f5-8116-76f15ac86835)
-Overview
-In this project, you will step into the shoes of an entry-level data analyst at the fictional Mint Classics Company, helping to analyze data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility.
+# Inventory Analysis - MauntClassics
 
-Project Scenario
+## Overview
+This project analyzes inventory data to optimize warehouse storage and reduce overstock. The goal is to make data-driven decisions for warehouse closure while maintaining supply chain efficiency.
 
-Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
+## Key Insights
+- **High Sales Products**: The majority of stock movement.
+- **Oversold Items**: Inventory tracking improvements needed.
+- **Negligible Normal & Overstocked Products**: Warehouse space can be optimized.
 
-To support a data-based business decision, they are looking for suggestions and recommendations for reorganizing or reducing inventory, while still maintaining timely service to their customers. For example, they would like to be able to ship a product to a customer within 24 hours of the order being placed.
+## Data
+- `inventory_data.csv`: Raw inventory and sales data.
+- `analysis_results.csv`: Categorized inventory insights.
 
-As a data analyst, you have been asked to use MySQL Workbench to familiarize yourself with the general business by examining the current data. You will be provided with a data model and sample data tables to review. You will then need to isolate and identify those parts of the data that could be useful in deciding how to reduce inventory. You will write queries to answer questions like these:
+## SQL Queries
+- `inventory_analysis.sql`: Identifies oversold, high sales, and overstocked products.
+- `warehouse_optimization.sql`: Helps evaluate storage facility closure.
 
-1) Where are items stored and if they were rearranged, could a warehouse be eliminated?
+## Technologies Used
+- **MySQL**: Database analysis.
+- **Power BI**: Data visualization.
+- **Python (Optional)**: Data processing.
 
-2) How are inventory numbers related to sales figures? Do the inventory counts seem appropriate for each item?
 
-3) Are we storing items that are not moving? Are any items candidates for being dropped from the product line?
+1. Clone this repository:
+2. Import `inventory_data.csv` into MySQL.
+3. Run `inventory_analysis.sql` to analyze stock levels.
+4. Visualize results in Power BI or Excel.
 
-The answers to questions like those should help you to formulate suggestions and recommendations for reducing inventory with the goal of closing one of the storage facilities. 
-
-Project Objectives
-
-1. Explore products currently in inventory.
-
-2. Determine important factors that may influence inventory reorganization/reduction.
-
-3. Provide analytic insights and data-driven recommendations.
-
-my Challenge
-
-my challenge will be to conduct an exploratory data analysis to investigate if there are any patterns or themes that may influence the reduction or reorganization of inventory in the Mint Classics storage facilities. To do this, you will import the database and then analyze data. You will also pose questions, and seek to answer them meaningfully using SQL queries to retrieve data from the database provided.
-
-In this project, we'll use the fictional Mint Classics relational database and a relational data model. Both will be provided.
-
-After you perform your analysis, you will share your findings.
+## Contributors
+Name (shwetachavan555)
 
 
 
