@@ -12,12 +12,12 @@ This project analyzes inventory data to optimize warehouse storage and reduce ov
   Oversold Products: This is likely due to inaccurate stock tracking or delays in replenishment.
   Normal & Overstocked Products: Minimal impact on storage decisions.
 ## Data
-- `inventory_data.csv`: Raw inventory and sales data.
-- `analysis_results.csv`: Categorized inventory insights.
-
+- `mauntclassica.sql`: Raw inventory and sales data.
+- `oversold, high sales, normal stock.csv`: Categorized inventory insights.
+- 'low stock high sale product.csv':Categorized inventory insights.
+- 'oversold.csv':Categorized inventory insights.
 ## SQL Queries
-- `inventory_analysis.sql`: Identifies oversold, high sales, and overstocked products.
-- `warehouse_optimization.sql`: Helps evaluate storage facility closure.
+- `mauntclassica.sql`: Identifies oversold, high sales, and overstocked products.
 
 ## Technologies Used
 - **MySQL**: Database analysis.
@@ -26,7 +26,6 @@ This project analyzes inventory data to optimize warehouse storage and reduce ov
 
 ## Recommendations:
 Prioritize Stock Accuracy
-
 Implement real-time inventory tracking to avoid overselling.
 Improve forecasting based on sales trends.
 Optimize Warehousing
