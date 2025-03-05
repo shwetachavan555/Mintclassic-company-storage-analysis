@@ -7,7 +7,10 @@ This project analyzes inventory data to optimize warehouse storage and reduce ov
 - **High Sales Products**: The majority of stock movement.
 - **Oversold Items**: Inventory tracking improvements needed.
 - **Negligible Normal & Overstocked Products**: Warehouse space can be optimized.
-
+# Key Takeaways:
+ # High Sales: The business moves inventory efficiently, but supply chain management needs optimization to prevent stockouts.
+ # Oversold Products: This is likely due to inaccurate stock tracking or delays in replenishment.
+ # Normal & Overstocked Products: Minimal impact on storage decisions.
 ## Data
 - `inventory_data.csv`: Raw inventory and sales data.
 - `analysis_results.csv`: Categorized inventory insights.
@@ -21,11 +24,19 @@ This project analyzes inventory data to optimize warehouse storage and reduce ov
 - **Power BI**: Data visualization.
 - **Python (Optional)**: Data processing.
 
+## Recommendations:
+**Prioritize Stock Accuracy**
 
-1. Clone this repository:
-2. Import `inventory_data.csv` into MySQL.
-3. Run `inventory_analysis.sql` to analyze stock levels.
-4. Visualize results in Power BI or Excel.
+**Implement real-time inventory tracking to avoid overselling.**
+**Improve forecasting based on sales trends.**
+**Optimize Warehousing**
+
+Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.
+Focus on optimizing storage for high-selling products.
+Supplier & Order Management
+Strengthen supplier relationships for faster restocking of high-sales items.
+Automate reorder levels for in-demand products
+
 
 ## Contributors
 Name (shwetachavan555)
