@@ -1,11 +1,11 @@
-# Inventory Analysis - MauntClassics
+# Inventory Analysis of  Mint Classics Company- relational database MauntClassics
 
 ## Overview
-This project analyzes inventory data to optimize warehouse storage and reduce overstock. The goal is to make data-driven decisions for warehouse closure while maintaining supply chain efficiency.
+This project analyzes the relational database "MauntClassics" to optimize warehouse storage and reduce overstock. The goal is to make data-driven decisions for warehouse closure while maintaining supply chain efficiency.
 
 # Key Insights
 - High Sales Products: The majority of stock movement.
-- Oversold Items: Inventory tracking improvements needed.
+- Oversold Items: Inventory tracking improvements are needed.
   Negligible Normal & Overstocked Products: Warehouse space can be optimized.
 # Key Takeaways:
   High Sales: The business moves inventory efficiently, but supply chain management needs optimization to prevent stockouts.
@@ -34,6 +34,34 @@ Focus on optimizing storage for high-selling products.
 Supplier & Order Management
 Strengthen supplier relationships for faster restocking of high-sales items.
 Automate reorder levels for in-demand products
+Preliminary Insights:
+Oversold Products:
+
+These products have demand exceeding supply.
+Possible action: Increase restocking or prioritize sourcing.
+
+Overstocked Products:
+
+These items have no sales but a significant stock.
+Possible action: Reduce reorder frequency, offer discounts, or phase out.
+
+High Sales Products:
+
+These products are performing well in sales.
+Possible action: Keep a close eye on stock levels to avoid running out.
+
+Normal Stock:
+These products have a balance between sales and inventory.
+
+Possible action: No immediate action is required, but monitor trends.
+
+
+
+
+
+
+
+
 
 
 ## Contributors
