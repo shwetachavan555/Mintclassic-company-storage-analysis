@@ -34,7 +34,8 @@ Focus on optimizing storage for high-selling products.
 Supplier & Order Management
 Strengthen supplier relationships for faster restocking of high-sales items.
 Automate reorder levels for in-demand products
-Preliminary Insights:
+
+# Preliminary Insights:
 Oversold Products:
 
 These products have demand exceeding supply.
