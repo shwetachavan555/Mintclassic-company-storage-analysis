@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes inventory data to optimize warehouse storage and reduce overstock. The goal is to make data-driven decisions for warehouse closure while maintaining supply chain efficiency.
 
-## Key Insights
+# Key Insights
 - High Sales Products: The majority of stock movement.
 - Oversold Items: Inventory tracking improvements needed.
   Negligible Normal & Overstocked Products: Warehouse space can be optimized.
