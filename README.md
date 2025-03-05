@@ -21,7 +21,6 @@ This project analyzes inventory data to optimize warehouse storage and reduce ov
 
 ## Technologies Used
 - **MySQL**: Database analysis.
-- **Power BI**: Data visualization.
 - **Python (Optional)**: Data processing.
 
 ## Recommendations:
