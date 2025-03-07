@@ -12,10 +12,10 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
   Oversold Products: This is likely due to inaccurate stock tracking or delays in replenishment.
   Normal & Overstocked Products: Minimal impact on storage decisions.
 ## Data
-- `mauntclassica.sql`: Raw inventory and sales data.
-- `oversold, high sales, normal stock.csv`: Categorized inventory insights.
-- 'low stock high sale product.csv':Categorized inventory insights.
-- 'oversold.csv':Categorized inventory insights.
+- `mauntclassica.sql`: Raw inventory and sales data. -data provides by Coursera about  Mint's classic company
+- `oversold, high sales, normal stock.csv`: Categorized inventory insights.  This data was Derived from the database" mauntclassica " by running SQL queries in My SQL
+- 'low stock high sale product.csv':Categorized inventory insights.This data Derived from the database" mauntclassica " by running SQL queries in My SQL
+- 'oversold.csv':Categorized inventory insights.This data Derived from the database" mauntclassica " by running SQL queries in My SQL
 ## SQL Queries
 - `mauntclassica.sql`: Identifies oversold, high sales, and overstocked products.
 
@@ -34,7 +34,7 @@ Focus on optimizing storage for high-selling products.
 Supplier & Order Management
 Strengthen supplier relationships for faster restocking of high-sales items.
 Automate reorder levels for in-demand products
-
+1985 Toyota Supra is the product name quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.
 # Preliminary Insights:
 Oversold Products:
 
