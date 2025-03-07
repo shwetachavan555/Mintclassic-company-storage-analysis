@@ -24,16 +24,19 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 - **Python (Optional)**: Data processing.
 
 ## Recommendations:
--**Prioritize Stock Accuracy**
--**Implement real-time inventory tracking to avoid overselling.**
--**Improve forecasting based on sales trends.**
--**Optimize Warehousing**
+-**1 Prioritize Stock Accuracy**
 
--**Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.**
--**Focus on optimizing storage for high-selling products.**
--**Supplier & Order Management**
--**Strengthen supplier relationships for faster restocking of high-sales items.**
--**Automate reorder levels for in-demand products**
+  Implement real-time inventory tracking to avoid overselling.
+  Improve forecasting based on sales trends.
+-**2 Optimize Warehousing**
+
+  Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.
+  Focus on optimizing storage for high-selling products.
+-**3 Supplier & Order Management**
+
+  Strengthen supplier relationships for faster restocking of high-sales items.
+  Automate reorder levels for in-demand products.
+  
 -**1985 Toyota Supra is the product name quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.**
 ## Preliminary Insights:
 -**Oversold Products:**
