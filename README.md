@@ -29,7 +29,7 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 2️ **Reduce overstocked items** to optimize inventory space.  
 3️ **Increase orders for high-sales products** to meet demand.  
   
-**1985 Toyota Supra is the product name quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.**
+**1985 Toyota Supra is the product name, quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.**
 
 ## Preliminary Insights:
 -**Oversold Products:**
