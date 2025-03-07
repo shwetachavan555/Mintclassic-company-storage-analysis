@@ -6,7 +6,7 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 # Key Insights
 - High Sales Products: The majority of stock movement.
 - Oversold Items: Inventory tracking improvements are needed.
-  Negligible Normal & Overstocked Products: Warehouse space can be optimized.
+- Negligible Normal & Overstocked Products: Warehouse space can be optimized.
 # Key Takeaways:
   High Sales: The business moves inventory efficiently, but supply chain management needs optimization to prevent stockouts.
   Oversold Products: This is likely due to inaccurate stock tracking or delays in replenishment.
