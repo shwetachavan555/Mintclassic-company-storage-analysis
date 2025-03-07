@@ -1,4 +1,4 @@
-# Analize data in a model car database with MySQL Workbench -Inventory Analysis of  Mint Classics Company- relational database MauntClassics
+# Analyze data in a Model Car Database with MySQL Workbench -Inventory Analysis of  Mint Classics Company- relational database MauntClassics
 
 ## Overview
 This project analyzes the relational database "MauntClassics" to optimize warehouse storage and reduce overstock. The goal is to make data-driven decisions for warehouse closure while maintaining supply chain efficiency.
