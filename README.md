@@ -24,15 +24,15 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 - **Python (Optional)**: Data processing.
 
 ## Recommendations:
--**1 Prioritize Stock Accuracy**
+-**1 Prioritize Stock Accuracy**:
 
   Implement real-time inventory tracking to avoid overselling.
   Improve forecasting based on sales trends.
--**2 Optimize Warehousing**
+-**2 Optimize Warehousing**:
 
   Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.
   Focus on optimizing storage for high-selling products.
--**3 Supplier & Order Management**
+-**3 Supplier & Order Management**:
 
   Strengthen supplier relationships for faster restocking of high-sales items.
   Automate reorder levels for in-demand products.
