@@ -24,34 +24,34 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 - **Python (Optional)**: Data processing.
 
 ## Recommendations:
--Prioritize Stock Accuracy
--Implement real-time inventory tracking to avoid overselling.
--Improve forecasting based on sales trends.
--Optimize Warehousing
+-**Prioritize Stock Accuracy**
+-**Implement real-time inventory tracking to avoid overselling.**
+-**Improve forecasting based on sales trends.**
+-**Optimize Warehousing**
 
--Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.
--Focus on optimizing storage for high-selling products.
--Supplier & Order Management
--Strengthen supplier relationships for faster restocking of high-sales items.
--Automate reorder levels for in-demand products
--1985 Toyota Supra is the product name quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.
+-**Since overstocked products are minimal, warehouse space could be restructured instead of fully closing a facility.**
+-**Focus on optimizing storage for high-selling products.**
+-**Supplier & Order Management**
+-**Strengthen supplier relationships for faster restocking of high-sales items.**
+-**Automate reorder levels for in-demand products**
+-**1985 Toyota Supra is the product name quantity is 7733 but not sold product, this product must be sold at a discount or returned to the supplier so that the warehouse is optimized.**
 ## Preliminary Insights:
--Oversold Products:
+-**Oversold Products:**
 
  These products have demand exceeding supply.
  Possible action: Increase restocking or prioritize sourcing.
 
--Overstocked Products:
+-**Overstocked Products:**
 
- These items have no sales but a significant stock.
+ These items have no sales but are in significant stock.
  Possible action: Reduce reorder frequency, offer discounts, or phase out.
 
--High Sales Products:
+-**High Sales Products:**
 
  These products are performing well in sales.
  Possible action: Keep a close eye on stock levels to avoid running out.
 
--Normal Stock:
+**Normal Stock:**
  These products have a balance between sales and inventory.
  Possible action: No immediate action is required, but monitor trends.
 
