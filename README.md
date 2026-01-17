@@ -53,7 +53,8 @@ This project analyzes the relational database "MauntClassics" to optimize wareho
 
 
 
-
+vizuligation images im power bi
+![image alt](https://github.com/shwetachavan555/Mintclassic-company-storage-analysis/blob/b23786ff1f6d0e53259b491d086fea2c23eed5ce/Screenshot%202026-01-17%20111013.png)
 
 
 
